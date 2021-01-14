@@ -1,0 +1,6 @@
+framework module CoreAnimator {
+  umbrella header "CoreAnimator-umbrella.h"
+
+  export *
+  module * { export * }
+}

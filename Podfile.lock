@@ -1,0 +1,334 @@
+PODS:
+  - Alamofire (5.2.1)
+  - ContentLoader (1.1.1)
+  - CoreAnimator (2.1.4)
+  - DropDown (2.3.13)
+  - DSGradientProgressView (1.0.1)
+  - EFInternetIndicator (0.4.0):
+    - EFInternetIndicator/Interface (= 0.4.0)
+  - EFInternetIndicator/Interface (0.4.0):
+    - SwiftMessages
+  - FBSDKCoreKit (7.0.1):
+    - FBSDKCoreKit/Basics (= 7.0.1)
+    - FBSDKCoreKit/Core (= 7.0.1)
+  - FBSDKCoreKit/Basics (7.0.1)
+  - FBSDKCoreKit/Core (7.0.1):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (7.0.1):
+    - FBSDKLoginKit/Login (= 7.0.1)
+  - FBSDKLoginKit/Login (7.0.1):
+    - FBSDKCoreKit (~> 7.0.1)
+  - FBSDKShareKit (7.0.1):
+    - FBSDKShareKit/Share (= 7.0.1)
+  - FBSDKShareKit/Share (7.0.1):
+    - FBSDKCoreKit (~> 7.0.1)
+  - Firebase (6.27.0):
+    - Firebase/Core (= 6.27.0)
+  - Firebase/Core (6.27.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.6.1)
+  - Firebase/CoreOnly (6.27.0):
+    - FirebaseCore (= 6.8.0)
+  - FirebaseAnalytics (6.6.1):
+    - FirebaseCore (~> 6.8)
+    - FirebaseInstallations (~> 1.4)
+    - GoogleAppMeasurement (= 6.6.1)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (~> 1.30905.0)
+  - FirebaseAuth (6.6.0):
+    - FirebaseCore (~> 6.8)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.5)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (6.8.0):
+    - FirebaseCoreDiagnostics (~> 1.3)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+  - FirebaseCoreDiagnostics (1.4.0):
+    - GoogleDataTransportCCTSupport (~> 3.1)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Logger (~> 6.5)
+    - nanopb (~> 1.30905.0)
+  - FirebaseDatabase (6.3.0):
+    - FirebaseCore (~> 6.8)
+    - leveldb-library (~> 1.22)
+  - FirebaseInstallations (1.4.0):
+    - FirebaseCore (~> 6.8)
+    - GoogleUtilities/Environment (~> 6.6)
+    - GoogleUtilities/UserDefaults (~> 6.6)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstanceID (4.4.0):
+    - FirebaseCore (~> 6.8)
+    - FirebaseInstallations (~> 1.0)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+  - FirebaseMessaging (4.5.0):
+    - FirebaseCore (~> 6.8)
+    - FirebaseInstanceID (~> 4.3)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.5)
+    - GoogleUtilities/Environment (~> 6.5)
+    - GoogleUtilities/Reachability (~> 6.5)
+    - GoogleUtilities/UserDefaults (~> 6.5)
+    - Protobuf (>= 3.9.2, ~> 3.9)
+  - FirebaseStorage (3.7.0):
+    - FirebaseCore (~> 6.8)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FLAnimatedImage (1.0.12)
+  - FullMaterialLoader (0.2.3)
+  - GoogleAppMeasurement (6.6.1):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (~> 1.30905.0)
+  - GoogleDataTransport (6.2.1)
+  - GoogleDataTransportCCTSupport (3.2.0):
+    - GoogleDataTransport (~> 6.1)
+    - nanopb (~> 1.30905.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.6.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.6.0):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.6.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.6.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.6.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.6.0)"
+  - GoogleUtilities/Reachability (6.6.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.6.0):
+    - GoogleUtilities/Logger
+  - GSPlayer (0.2.17)
+  - GTMSessionFetcher/Core (1.4.0)
+  - GTProgressBar (0.3.3)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.5)
+  - JJFloatingActionButton (2.5.0)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - KYShutterButton (2.0.1)
+  - leveldb-library (1.22)
+  - lottie-ios (3.1.8)
+  - MarqueeLabel (4.0.2)
+  - MDatePickerView (1.2.3)
+  - nanopb (1.30905.0):
+    - nanopb/decode (= 1.30905.0)
+    - nanopb/encode (= 1.30905.0)
+  - nanopb/decode (1.30905.0)
+  - nanopb/encode (1.30905.0)
+  - NextLevel (0.16.3)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PhoneNumberKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.1)
+    - PhoneNumberKit/UIKit (= 3.3.1)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.1)
+  - PhoneNumberKit/UIKit (3.3.1):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - Player (0.13.2)
+  - PromisesObjC (1.2.9)
+  - Protobuf (3.12.0)
+  - PryntTrimmerView (4.0.0)
+  - Regift (1.5.0)
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+  - SKCountryPicker (1.2.9)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SnapKit (5.0.1)
+  - SteviaLayout (4.7.3)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+  - SwiftyCam (4.0.0)
+  - TextFieldEffects (1.6.0)
+  - TwitterCore (3.2.0)
+  - TwitterKit (3.4.2):
+    - TwitterCore (>= 3.2.0)
+  - YPImagePicker (4.2.1):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - ContentLoader
+  - CoreAnimator (~> 2.1.4)
+  - DropDown
+  - DSGradientProgressView
+  - EFInternetIndicator
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - Firebase
+  - FirebaseAuth
+  - FirebaseCore
+  - FirebaseDatabase
+  - FirebaseMessaging
+  - FirebaseStorage
+  - FLAnimatedImage
+  - FullMaterialLoader
+  - GSPlayer
+  - GTProgressBar
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - JJFloatingActionButton
+  - JSQMessagesViewController
+  - Kingfisher
+  - KYShutterButton
+  - lottie-ios
+  - MarqueeLabel
+  - MDatePickerView
+  - NextLevel
+  - NVActivityIndicatorView
+  - PhoneNumberKit
+  - Player
+  - Regift
+  - SDWebImage (~> 5.0)
+  - SKCountryPicker
+  - SkyFloatingLabelTextField
+  - SnapKit (~> 5.0.0)
+  - SwiftyCam
+  - TextFieldEffects
+  - TwitterKit
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ContentLoader
+    - CoreAnimator
+    - DropDown
+    - DSGradientProgressView
+    - EFInternetIndicator
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FBSDKShareKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseDatabase
+    - FirebaseInstallations
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FirebaseStorage
+    - FLAnimatedImage
+    - FullMaterialLoader
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleDataTransportCCTSupport
+    - GoogleUtilities
+    - GSPlayer
+    - GTMSessionFetcher
+    - GTProgressBar
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - JJFloatingActionButton
+    - JSQMessagesViewController
+    - JSQSystemSoundPlayer
+    - Kingfisher
+    - KYShutterButton
+    - leveldb-library
+    - lottie-ios
+    - MarqueeLabel
+    - MDatePickerView
+    - nanopb
+    - NextLevel
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - Player
+    - PromisesObjC
+    - Protobuf
+    - PryntTrimmerView
+    - Regift
+    - SDWebImage
+    - SKCountryPicker
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - SteviaLayout
+    - SwiftMessages
+    - SwiftyCam
+    - TextFieldEffects
+    - TwitterCore
+    - TwitterKit
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  ContentLoader: b14db4449065be0fd2b8c77b65ff5e4a0a8c7f86
+  CoreAnimator: 8606ef401a0c4fff922aa8fca70d6e1191f7f746
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  DSGradientProgressView: 256d85dc3a92b429ace38617ceb459faec42bb41
+  EFInternetIndicator: a6077679e15191889a783a06624390b73e8109dc
+  FBSDKCoreKit: 9cc05bec0568a5955c82eb59ae95da0fe125b88d
+  FBSDKLoginKit: ecc6fd43c81b60f5b5e9388d58f137aff4a5d00b
+  FBSDKShareKit: 45c37aa481681762ac453462fca117bd75eaebbe
+  Firebase: fc4cbf6f1592636431821ef9a3c557e4dfd9f268
+  FirebaseAnalytics: 0ea640473474f036cabbc2576e20c2d63671c92f
+  FirebaseAuth: b85c064e0ac60f82486728d50a4803f235687302
+  FirebaseCore: feda061cb1ee6d8ad4824f4a4a8ffbcfe284f595
+  FirebaseCoreDiagnostics: 4505e4d4009b1d93f605088ee7d7764d5f0d1c84
+  FirebaseDatabase: 3d02ffa794ec174853c086cf87cf2dc79bd6da49
+  FirebaseInstallations: 293f567159b6d66d1c990f13bb868066096c94ec
+  FirebaseInstanceID: 3b119bfe90e904851218159c9a4ecb847cc51d18
+  FirebaseMessaging: ad9e1a80ea64905e01a0ce1b3eb76a2944544151
+  FirebaseStorage: af7bdbd12177cf567df00904e3e3a93704f25b15
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FullMaterialLoader: e42901936b13600524f590e740ef359b72a4693f
+  GoogleAppMeasurement: 2fd5c5a56c069db635c8e7b92d4809a9591d0a69
+  GoogleDataTransport: 9a8a16f79feffc7f42096743de2a7c4815e84020
+  GoogleDataTransportCCTSupport: 489c1265d2c85b68187a83a911913d190012158d
+  GoogleUtilities: 39530bc0ad980530298e9c4af8549e991fd033b1
+  GSPlayer: ed397162c7f1df0a2fbaa3998dbf7cd20865a81a
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  GTProgressBar: a480283ecb0ada50de16c71e634892826928f640
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  JJFloatingActionButton: fdc3aefb0f28f04d0f988fa25d5fac97028a9ea7
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  KYShutterButton: 794612eedc2ee75114326f7394703f0f49bf0882
+  leveldb-library: 55d93ee664b4007aac644a782d11da33fba316f7
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  MarqueeLabel: f762aa681ae201f66c1d511858b171f75d83013a
+  MDatePickerView: e26233885de2f13659c6101b3ed265eacf92c078
+  nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
+  NextLevel: 76dab336f758e6a98ef6b4917de1481324cffe04
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PhoneNumberKit: ff153d5e299f6da566cb73c6aa71e354933b2932
+  Player: 7a2bcad3631034fa47d4b6fdedf7c4075fc236fe
+  PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
+  Protobuf: 2793fcd0622a00b546c60e7cbbcc493e043e9bb9
+  PryntTrimmerView: 67e67573ffd4c073f1308effa66aefd0cfa667a0
+  Regift: d097afd401021f4f42b102ee125ceeb125a38caf
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+  SKCountryPicker: 7ad1e7dfb482cfb26855e33c2d70dbf1eaf218fe
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+  SwiftyCam: 6e57914771d972fbe508e759dc9d0150a44a93fd
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  TwitterCore: 8cbc9ad34d91c63a0035ea05bfbfc0d7ca72a28c
+  TwitterKit: 5e4f41d70b9abdb41df5467f52d7aa2c0fd26ebb
+  YPImagePicker: 3b88ca0c50134af2856c48c481572c98a8b8b65b
+
+PODFILE CHECKSUM: ca4eaabcd607c3639f16d4c3ee642993d3bf1038
+
+COCOAPODS: 1.8.3

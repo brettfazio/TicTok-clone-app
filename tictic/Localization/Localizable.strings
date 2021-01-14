@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  HomeX
+ 
+  Created by Mac on 2019/10/22.
+  Copyright © 2019 mac. All rights reserved.
+*/
+//MARK: Error Messages
+"alert_error_title" = "Error";
+"ok_button_title" = "OK";
+"alert_app_name" = "MusicTok";
+
+//MARK: Error Codes - Generic
+"error_400" = "Something went wrong";
+
+//MARK: Validations
+"validation_empty_email"                    = "Email field required";
+"validation_valid_email"                    = "Valid email field required";
+"validation_empty_password"                 = "Password field required";
+"validation_empty_first_name"               = "Firstname field required";
+"validation_empty_UserName"                 = "Username field required";
+"validation_empty_PhoneNumber"              = "PhoneNumber field required";
+"validation_PhoneNumber_Error"               = "Please Enter Correct phone Number";
+"validation_empty_UserName/Email"           = "Username/Email field required";
+"validation_empty_last_name"                = "Lastname field required";
+"validation_empty_profession"               = "Profession field required";
+"validation_empty_image"                    = "Profile image required";
+"validation_empty_company_logo"             = "Company logo required";
+"validation_empty_code"                     = "All code fields required";
+"validation_passwords_not_same"             = "Both passwords are not same";
+"validation_empty_title"                    = "Post title required";
+"validation_empty_desc"                     = "Post description field required";
+"validation_empty_project_name"             = "Project Name required";
+"validation_empty_project_category"         = "Project category required";
+"validation_empty_project_desc"             = "Project Description required";
+"validation_empty_task_name"                = "Task Name required";
+
+"validation_empty_New_password"                = "New Password field required";
+"validation_empty_Confirm_password"                = "Confirm Password field required";
+"validation_empty_Both_password"                = "Please enter same Passwords";
+
+
+
+
+//MARK: No Network
+//English
+"no_network_alert_title"                    = "Network Error";
+"no_network_alert_description"              = "Establish Internet connection to resume interaction with the app.";
+
+//MARK: Camera
+"camer_not_available"                       = "Camera not avaiable in current device!";
+
+//MARK: Guest Like
+"guest_like_not_available"                  = "You are not eligible for this feature.\nPlease Login";
+
+//MARK: Guest Review
+"guest_review_not_available"                  = "You are not eligible for this feature.\nPlease Login";
